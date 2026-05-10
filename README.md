@@ -53,14 +53,14 @@ Creating a consistent visual identity across multiple sections
 ### Homepage
 ![Homepage](Screenshot%202026-04-18%20183146.png)
 
-### Services Section
-![Services](Screenshot%202026-04-18%20183206.png)
-
 ### About Section
-![About](Screenshot%202026-04-18%20183233.png)
+![About](Screenshot%202026-04-18%20183206.png)
 
-### Contact / Footer
-![Footer](Screenshot%202026-04-18%20183259.png)
+### Procedures Section
+![Procedures](Screenshot%202026-04-18%20183233.png)
+
+### Testimonials
+![Testimonials](Screenshot%202026-04-18%20183259.png)
 
 
 Notes
