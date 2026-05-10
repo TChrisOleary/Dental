@@ -48,8 +48,20 @@ Strengthening mobile responsiveness and spacing
 
 Creating a consistent visual identity across multiple sections
 
-Screenshots
-(Screenshots are included in this repository. They can be added here using Markdown image tags once organized into a /screenshots folder.)
+## Screenshots
+
+### Homepage
+![Homepage](Screenshot%202026-04-18%20183146.png)
+
+### Services Section
+![Services](Screenshot%202026-04-18%20183206.png)
+
+### About Section
+![About](Screenshot%202026-04-18%20183233.png)
+
+### Contact / Footer
+![Footer](Screenshot%202026-04-18%20183259.png)
+
 
 Notes
 Developed locally using MAMP
