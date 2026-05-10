@@ -2,7 +2,7 @@ Dental Website — WordPress + Elementor
 Overview
 A fully responsive dental practice website built using WordPress and Elementor, designed with a clean, modern layout and a patient‑friendly user experience. The site emphasizes clarity, trust, and easy access to essential services.
 ## Live Demo
-[View the Website](www.dental.chrisolearyweb.com)
+[View the Website](https://dental.chrisolearyweb.com/)
 
 Features
 Custom hero section with clear call‑to‑action
